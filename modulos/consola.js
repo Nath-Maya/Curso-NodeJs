@@ -94,3 +94,40 @@ console.assert(valor === 10, "El valor no es igual a 10");
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// !!!!!!!
+//Oye
+// TE
+// Amo
+// !!!!!!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
