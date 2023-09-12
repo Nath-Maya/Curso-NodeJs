@@ -7,4 +7,4 @@ exec('node modulos/consola.js', (err, stdout, sterr) => {
       return false;
    }
    console.log(stdout); 
-})
+});
