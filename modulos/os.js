@@ -16,3 +16,6 @@ console.log(os.cpus().length)
 
 console.log(os.freemem()) //memoria libre que tenemos
 
+console.log(os.homedir())
+
+console.log(os.hostname())
